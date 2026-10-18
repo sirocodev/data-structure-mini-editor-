@@ -1,5 +1,4 @@
-# data-structure-mini-editor
-# 자료구조 과제 1 - 이중 연결 리스트 미니 메모장
+# 이중 연결 리스트 미니 메모장
 
 ## 개발 환경
 - Python 3.8+
