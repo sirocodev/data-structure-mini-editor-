@@ -1,0 +1,4 @@
+.p2/
+__pycache__/
+*.pyc
+autosave.txt
